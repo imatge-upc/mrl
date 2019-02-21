@@ -1,2 +1,2 @@
 # mrl
-Plug-and-Train
+Plug-and-Train Loss for Single View 3D Reconstruction
