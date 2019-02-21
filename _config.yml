@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Temporal Regularization of Saliency Maps in Egocentric Videos "
-keywords:    "deep learning, saliency, video, epic kitchens"
+title:       "Plug-and-Train Loss for Model-Based Single View 3D Reconstruction"
+keywords:    "deep learning, 3D reconstruction, aesthetics, loss function"
 description: "Description here"
-source_link: "https://github.com/imatge-upc/saliency-2018-videosalgan"
+source_link: "https://imatge-upc.github.io/mrl/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
