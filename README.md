@@ -1,1 +1,1 @@
-## Temporal Regularization of Saliency Maps in Egocentric Videos
+## Plug-and-Train Loss for Single View 3D Reconstruction
