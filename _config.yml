@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Plug-and-Train Loss for Model-Based Single View 3D Reconstruction"
+title:       "Plug-and-Train Loss for Mode-Based Single View 3D Reconstruction"
 keywords:    "deep learning, 3D reconstruction, aesthetics, loss function"
 description: "Description here"
 source_link: "https://imatge-upc.github.io/mrl/"
